@@ -1,0 +1,13 @@
+.header a{
+    display: inline-block;
+    text-decoration: none;
+    margin: 10px;
+    color:black;
+}
+
+span{
+    color: rgb(48, 48, 123);
+    font-size: 14px;
+    font-weight: 800;
+    padding: 10px;
+}
